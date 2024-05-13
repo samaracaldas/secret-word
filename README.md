@@ -1,7 +1,7 @@
 # secret-word
 ![image](https://github.com/samaracaldas/secret-word/assets/92318337/b14478e2-efe7-49b7-bdf5-339816b1a774)
 <h2>:page_with_curl: Description</h2>
-<p id="description">Projeto realizado no curso React do zero à maestria. <br> Ele é um jogo de adivinhar palavras! O jogador tem três vidas e uma dica para adivinhar. Caso erre 3 vezes, é Game Over.</p>
+<p id="description">Projeto realizado no curso React do zero à maestria. <br> Ele é um jogo de adivinhar palavras! O jogador tem três tentativas e uma dica para adivinhar. Caso erre 3 vezes, é Game Over.</p>
 
 <h2>💻 Built with</h2>
 
